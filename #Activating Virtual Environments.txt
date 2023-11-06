@@ -1,0 +1,12 @@
+#Activating Virtual Environments
+#python -m venv myenv
+#myenv\Scripts\activate  
+#pip install simple_image_download==0.4
+#pip install labelImg
+
+run
+myenv\Scripts\activate 
+streamlit run App.py
+
+
+
